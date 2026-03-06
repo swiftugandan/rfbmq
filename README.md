@@ -92,3 +92,4 @@ Your message body here (up to 64 MiB of Markdown).
 
 - [Manifesto](Manifesto.md) -- design philosophy and principles
 - [FAQ](FAQ.md) -- usage patterns for AI agent workflows
+- [DeepWiki](https://deepwiki.com/swiftugandan/rfbmq) -- AI-generated documentation
